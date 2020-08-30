@@ -1,0 +1,20 @@
+
+.nav-item, .media-links {
+    list-style: none;
+}
+
+header {
+    text-align: center;
+    text-decoration: underline;
+}
+
+.review {
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+    text-shadow: -5px -5px 3px purple;
+}
+
+
+
+
